@@ -16,9 +16,11 @@ return array(
     "eta" => "Maaf kak gak bisa diperlihatkan semua ya kak, Bisa langsung cek Ulasan dan Gambar, silakan diorder kakak.",
     "bahan" => "Produk kami semuanya menggunakan bahan: COTTON COMBAD 30S & 24S ya kak, dijamin nyaman, adem + tidak tembus ya kak. silakan diorder kakak.",
     "warna" => "Semua produk kami yang ada diEtalase bisa pilih Warna ya kak, silakan diorder kakak.",
-    "bb" => "UKURAN BB:\nM= LD 85.PJ 64 CM (BB 30-40KG)\nL = LD 100.PJ 69 CM (BB 45-55KG)\nXL= LD 110.PJ 72 CM (BB 60-70KG)\nXXL LD 116.PJ 74 CM (BB 75-85KG)",
+    "bb" => "UKURAN BB: M= LD 85.PJ 64 CM (BB 30-40KG) L = LD 100.PJ 69 CM (BB 45-55KG) XL= LD 110.PJ 72 CM (BB 60-70KG) XXL LD 116.PJ 74 CM (BB 75-85KG)",
     "harga" => "Harga sesuai yang ada di Etalase ya kak, silakan diorder kakak.",
     "rekaman" => "Kita live langsung kak buka rekaman, jika komentar kakak belum dibaca mungkin ketiban ya kak oleh yg lain, jadi ditunggu saja kak.",
     "dibaca" => "Mohon maaf kak jika komentar kakak belum dibaca mungkin chatnya ketiban ya kak oleh yg lain, jadi ditunggu ya kak.",
     "ready" => "Untuk produk selama sesi live untuk stock dijamin tersedia ya kak",
+    "pengiriman" => "Untuk pengiriman di hari kerja ya kak",
+    "dikirim" => "Untuk pengiriman di hari kerja ya kak",
 );
