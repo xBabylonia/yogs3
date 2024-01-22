@@ -4,7 +4,7 @@ return array(
     // TEXT KEYWORD => KETERANGAN 
     // MISALKAN ADA KOMENTAR 
     //stock etalases 1 : maka yang akan muncul bagian stock, begitu juga yang lainnya
-    "size" => "Size Chart :\nM= LD 85.PJ 64 CM (BB 30-40KG)\nL = LD 100.PJ 69 CM (BB 45-55KG)\nXL= LD 110.PJ 72 CM (BB 60-70KG)\nXXL LD 116.PJ 74 CM (BB 75-85KG)",
+    "size" => "Size Chart : M= LD 85.PJ 64 CM (BB 30-40KG) L = LD 100.PJ 69 CM (BB 45-55KG) XL= LD 110.PJ 72 CM (BB 60-70KG) XXL LD 116.PJ 74 CM (BB 75-85KG)",
     "spill" => "Maaf kak kita gak bisa spill semua ya kak, Kakak bisa langsung cek Ulasan dan Gambar jika kepo sama produknya.",
     "ori" => "Bahannya dijamin bagus ya kak, silakan diorder kakak.",
     "kualitas" => "Untuk kualitas bahannya dijamin bagus ya kak, silakan diorder kakak.",
@@ -23,4 +23,7 @@ return array(
     "ready" => "Untuk produk selama sesi live untuk stock dijamin tersedia ya kak",
     "pengiriman" => "Untuk pengiriman di hari kerja ya kak",
     "dikirim" => "Untuk pengiriman di hari kerja ya kak",
+    "bb 80" => "untuk bb 80 keatas, XXL LD 116.PJ 74 CM (BB 75-85KG)"
+    "pengiriman dari mana?" => "pengiriman sesuai dari masing-masing toko ya kak"
+    
 );
